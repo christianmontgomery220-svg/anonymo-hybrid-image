@@ -9,9 +9,9 @@
   "provenance_level": "Hybrid",
   "documentation_url": "https://anonymodocs.com/",
   "canonical_url": "https://tfbtheory.com/",
-  "record_link": "[INSERT_DOI_OR_RECORD_LINK]",
+  "record_link": "https://github.com/christianmontgomery220-svg/anonymo-hybrid-image",
   "date_created": "2026-03-23",
-  "asset_filename": "[INSERT_ASSET_FILENAME]",
+  "asset_filename": "sample_hybrid_image_with_xmp.jpg",
   "hash_algorithm": "SHA-256",
-  "asset_hash": "[INSERT_SHA256_HASH]"
+  "asset_hash": "e0f5497c1068013466a9ffaf2c0f658002f6078aaa1c736b9b4fb7ff48a3e6db"
 }

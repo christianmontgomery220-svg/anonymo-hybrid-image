@@ -1,7 +1,7 @@
 {
   "package_version": "1.0",
   "package_name": "anonymo_asset_package_v1",
-  "status": "scaffold_pending_final_asset",
+  "status": "final_asset_embedded",
   "provenance": {
     "type": "Hybrid",
     "human_authorship": true,
@@ -11,13 +11,13 @@
   },
   "integrity": {
     "algorithm": "SHA-256",
-    "file": "[INSERT_ASSET_FILENAME]",
-    "hash": "[INSERT_SHA256_HASH]"
+    "file": "sample_hybrid_image_with_xmp.jpg",
+    "hash": "e0f5497c1068013466a9ffaf2c0f658002f6078aaa1c736b9b4fb7ff48a3e6db"
   },
   "links": {
     "verification": "https://anonymodocs.com/",
     "canonical": "https://tfbtheory.com/",
-    "registry": "[INSERT_DOI_OR_RECORD_LINK]"
+    "registry": "https://github.com/christianmontgomery220-svg/anonymo-hybrid-image"
   },
   "visibility_footer": {
     "Author": "Chris Montgomery",
@@ -28,6 +28,6 @@
     "Intellectual_Framework": "TCF/TFB",
     "Project_Title": "Theory of Fundamental Belief / Anonymo AI",
     "Year": "2026",
-    "Copyright": "© 2025–2026 Chris Montgomery"
+    "Copyright": "\u00a9 2025\u20132026 Chris Montgomery"
   }
 }
