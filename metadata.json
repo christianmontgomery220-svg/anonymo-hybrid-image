@@ -1,0 +1,17 @@
+{
+  "author": "Chris Montgomery",
+  "orcid": "0009-0009-5364-249X",
+  "original_authorship": "Human",
+  "creation_type": "Human-AI Hybrid",
+  "ai_assistance": true,
+  "intellectual_framework": "TCF/TFB",
+  "project": "Anonymo AI",
+  "provenance_level": "Hybrid",
+  "documentation_url": "https://anonymodocs.com/",
+  "canonical_url": "https://tfbtheory.com/",
+  "record_link": "[INSERT_DOI_OR_RECORD_LINK]",
+  "date_created": "2026-03-23",
+  "asset_filename": "[INSERT_ASSET_FILENAME]",
+  "hash_algorithm": "SHA-256",
+  "asset_hash": "[INSERT_SHA256_HASH]"
+}

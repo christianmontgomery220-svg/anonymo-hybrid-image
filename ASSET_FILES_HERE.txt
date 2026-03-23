@@ -1,0 +1,13 @@
+Place the final exported asset(s) in this folder before freezing the package.
+
+Recommended filenames:
+- asset_original.png
+- asset_with_metadata.png
+
+After adding the real file(s):
+1. Compute SHA-256
+2. Update metadata.json
+3. Update manifest.json
+4. Update checksum.txt
+5. Update TEMPLATE_XMP.xml
+6. Re-zip the folder
