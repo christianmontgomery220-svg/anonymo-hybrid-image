@@ -37,3 +37,11 @@ This package is designed to support a hybrid provenance model:
 
 ## Status
 This package is a **frozen verification scaffold** and may be attached to a future GitHub release, archive snapshot, or DOI record.
+
+---
+
+## Asset Package
+
+The full verification scaffold is available as a downloadable archive at the root of this repository:
+
+- **[`anonymo_asset_package_v1.zip`](./anonymo_asset_package_v1.zip)** — Contains `metadata.json`, `manifest.json`, `checksum.txt`, `TEMPLATE_XMP.xml`, and supporting documentation for the Anonymo AI / TCF-TFB proof-of-existence workflow.
