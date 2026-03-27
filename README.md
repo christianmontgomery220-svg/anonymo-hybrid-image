@@ -1,3 +1,8 @@
+Part of the **TCF / TFB + Anonymo Ecosystem**  
+System hub: https://github.com/christianmontgomery220-svg/tcf-anonymo-ecosystem
+
+---
+
 # Anonymo AI / TCF-TFB — Proof of Existence Package
 
 This repository/package serves as a public proof-of-existence and verification layer for assets created under the **Anonymo AI** framework and the **TCF/TFB** intellectual framework.
